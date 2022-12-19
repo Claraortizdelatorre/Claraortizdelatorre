@@ -60,3 +60,6 @@
     <br><br><g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png">☕</g-emoji> Wanna chat? <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>  me on <a href="www.linkedin.com/in/clara-ortiz-de-la-torre" rel="nofollow">LinkedIn</a>
   </samp>
 </p>
+
+
+<img alt="68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" src="https://miro.medium.com/max/952/1*OAXivevUVDA6ddtq-7jwVw.gif" style="max-width: 100%;">
