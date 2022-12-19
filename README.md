@@ -30,8 +30,6 @@
   <br><br>
   <samp>
     <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi!  I'm Junior Software Developer.  
-    <br>
-      <br>
     <br>Today, I'm still learning to make things <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><br><br>
     <animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" data-target="animated-image.originalLink">
       </a>
