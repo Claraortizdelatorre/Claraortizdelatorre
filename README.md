@@ -31,7 +31,7 @@
     <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi! I design for <a href="https://www.optimism.io/" rel="nofollow">Optimism</a>.
     <br>Today, I'm still learning to make things <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><br><br>
     <animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" align="center" data-canonical-src="https://i.imgur.com/kdKhgx6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     
+  <p>   
     <br><br><g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png">☕</g-emoji> Wanna chat? <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> me on <a href="www.linkedin.com/in/clara-ortiz-de-la-torre" rel="nofollow">Linkedin</a>
   </samp>
 </p>
