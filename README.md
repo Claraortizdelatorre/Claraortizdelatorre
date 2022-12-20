@@ -1,4 +1,5 @@
 # Hi, I'm Clara 👩‍💻
+
 <p align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 27px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -28,7 +29,8 @@
     <br><br>
     <samp>
       <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi! I'm Software Developer.
-
+      <br>Before that, I designed at GitHub for 6+ years!
+        <br>I think GitHub is <em>so cool</em> and still use it :D
       <br>Today, I'm still learning to make things <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><br><br>
       <animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" align="center" data-canonical-src="https://i.imgur.com/kdKhgx6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
         <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
